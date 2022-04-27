@@ -12,8 +12,7 @@
 	 </td>
     <td>
 	    <a href="https://github.com/xzp3094997376" target="_blank" rel="noopener">GitHub</a>
-    </td>
-	
+    </td>	
   </tr>
 </table>
 
