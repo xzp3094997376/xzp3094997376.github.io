@@ -14,7 +14,7 @@
 </table>
 <table border="0">
     <tr>
-    <td width="width=75%">
+    <td width="100%">
       <a href="https://github.com/xzp3094997376" target="_blank" rel="noopener">GitHub</a>
     </td>
   </tr>
