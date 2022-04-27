@@ -10,9 +10,12 @@
       <img src="/RE4wtd4.jpg" width="100%">
     </td>  
   </tr>
-  <tr style=" colspan:2;text-algin:center">
-    <td >
+  
+</table>
+<table>
+<tr>
+    <td style=" colspan:2;txt-algin:center">
       <a href="https://github.com/xzp3094997376" target="_blank" rel="noopener">GitHub</a>
     </td>
   </tr>
-</table>
+  </table>
