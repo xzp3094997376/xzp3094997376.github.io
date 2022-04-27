@@ -10,12 +10,11 @@
       <img src="/RE4wtd4.jpg" width="100%">
     </td> 
   </tr>  
-
+  
   <tr>
-    <td width="99%">
+    <td colspan=2 style="text-align:center" >
       <a href="https://github.com/xzp3094997376" target="_blank" rel="noopener">GitHub</a>
     </td>
-    <td width="1%">xzp3094997376</td>
   </tr>
   </table>
   
