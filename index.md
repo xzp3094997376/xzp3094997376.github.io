@@ -12,7 +12,7 @@
   </tr>  
 
   <tr>
-    <td style="text-algin:center; colspan:2">
+    <td style="text-align:center; colspan: 2;">
       <a href="https://github.com/xzp3094997376" target="_blank" rel="noopener">GitHub</a>
     </td>
      <td></td>
