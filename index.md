@@ -10,7 +10,7 @@
       <img src="/RE4wtd4.jpg" width="100%">
     </td>  
   </tr>
-  <tr style=" cospan:2">
+  <tr style=" colspan:2;text-algin:center">
     <td >
       <a href="https://github.com/xzp3094997376" target="_blank" rel="noopener">GitHub</a>
     </td>
