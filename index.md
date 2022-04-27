@@ -8,14 +8,13 @@
     </td>
     <td width="25%">
       <img src="/RE4wtd4.jpg" width="100%">
-    </td>  
+    </td> 
   </tr>
   
-</table>
-<table border="0">
-    <tr>
-    <td width="100%">
+  <tr>
+    <td style="txt-algin:center; colspan:2">
       <a href="https://github.com/xzp3094997376" target="_blank" rel="noopener">GitHub</a>
     </td>
   </tr>
-</table>
+  </table>
+  
