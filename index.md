@@ -8,7 +8,8 @@
       <p><b>地址：中国.郑州</b></p>
     </td>
     <td width="25%">
-     <img src="/RE4wtd4.jpg" width="100%">  
+     <img src="/RE4wtd4.jpg" width="100%"> 
+	 </td>
     </td>
 	    <a href="https://github.com/xzp3094997376" target="_blank" rel="noopener">GitHub</a>
     </td>
